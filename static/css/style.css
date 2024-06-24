@@ -1,0 +1,36 @@
+h1{
+    text-align: center;
+    text-shadow: 2px 12px 12px limegreen;
+    background-color: steelblue;
+    line-height: 100px;
+
+}
+.home{
+    display: flex;
+}
+img{
+    width: 300px;
+    height: 400px;
+    margin-right: 20px;
+    opacity: 0.8;
+}
+#paragraph1{
+    font-weight: bold;
+}
+.main{
+   display: flex;
+    background-color: #605f61;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding: 30px;
+    color: white;
+}
+.myimage{
+    width: 300px;
+    height: 200px;
+    margin-right: 20px;
+    border-radius: 20px;
+}
+.main:hover{
+    background-color: royalblue;
+}
